@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "react-chat-app-e74f7",
+    "production": "react-chat-app-e74f7"
+  },
+  "targets": {},
+  "etags": {}
+}
